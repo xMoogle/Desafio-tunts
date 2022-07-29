@@ -12,4 +12,4 @@ Open the folder on a terminal of your preference and run the following command:
  
     node .
     
- your worksheet should be updated at this point.
+ your worksheet should already updated at this point.
