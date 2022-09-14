@@ -10,7 +10,7 @@ Open the folder on a terminal of your preference and run the following command:
 
    npm install
  
- wait until all files are downloaded then type the comand?
+ wait until all files are downloaded then type the comand:
  
     node .
     
